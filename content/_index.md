@@ -1,5 +1,9 @@
-Hey there! I'm a third year computer science student at the University of Waterloo. I'm mostly interested in Backend Development, Social Networks, and Combinatorics + Optimization.
+**Currently seeking Software Engineering Internship opportunities for Summer 2022.**
 
-This term, I'll be building software to help tackle the enterprise search problem at [**Atolio**](https://www.atolio.com/). I'm also seeking Software Engineering Internship opportunities for Summer 2022. For recruiters, here's my [resume](/files/allen_gao_resume_2021_10_2.pdf)!
+Hey there! I'm a third year (3B) computer science student at the University of Waterloo. 
+I'm mostly interested in Backend Development, Combinatorics/Optimization, and Machine Learning.
 
-I've previously worked on developing telecommunication solutions at [**Acentury**](https://www.acentury.ca/).
+Last term at [**Atolio**](https://www.atolio.com/), I worked on simplifying the enterprise search
+problem. I worked with **Go**, **Dgraph**, and **ElasticSearch/Search Engine**.
+
+Before that, I worked on developing telecommunication solutions at [**Acentury**](https://www.acentury.ca/).
